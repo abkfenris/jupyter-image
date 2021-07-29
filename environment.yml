@@ -154,4 +154,4 @@ dependencies:
   - r-vroom
   - r-xml2
   - rpy2
-  # - rstackdeque :: https://github.com/conda-forge/staged-recipes/pull/15772
+  - r-rstackdeque
